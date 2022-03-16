@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+header_pages:
+ - projects.md
+ - eyes.md
+ - bus.md
+ - pac.md
