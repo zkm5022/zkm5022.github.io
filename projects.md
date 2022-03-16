@@ -2,8 +2,6 @@ layout: page
 title: "Projects"
 permalink: /projects/
 
-
-
 ### Projects
 Below are some of the projects that I have worked on for this course:<br>
 - <a href="https://zkm5022.github.io/pac"> Pac Men Game</a>
