@@ -41,5 +41,5 @@ Hi, my name is Zachary Moul and I am currently a Lead Software Engineer for Gene
 
 ### Projects
 - <a href="https://zkm5022.github.io/pac"> Pac Men Game</a>
-- <a href="eyes.md"> Cursor Following Eyes</a>
+- <a href="blob/master/eyes.md"> Cursor Following Eyes</a>
 - <a href="https://zkm5022.github.io/bus/README.md"> Live Bus Tracker</a>
