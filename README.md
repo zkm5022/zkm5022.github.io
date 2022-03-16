@@ -7,7 +7,7 @@
           <a class="nav-link active" aria-current="page" href="README">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="projects.md">Projects</a>
+          <a class="nav-link" href="https://github.com/zkm5022/zkm5022.github.io/blob/1fc538a08a4300213cfe9b31442101eae94ea628/projects.md">Projects</a>
         </li>
       </ul>
     </div>
