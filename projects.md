@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Projects"
-theme: jekyll-theme-slate
 permalink: /projects/
 ---
 ### Projects
