@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Projects"
-permalink: /projects/
+permalink: https://github.com/zkm5022/zkm5022.github.io/blob/1fc538a08a4300213cfe9b31442101eae94ea628/projects.md
 ---
 ### Projects
 Below are some of the projects that I have worked on for this course:<br>
