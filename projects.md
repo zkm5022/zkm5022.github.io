@@ -1,7 +1,6 @@
 ---
 theme: jekyll-theme-slate
 layout: page
-markdown: kramdown
 title: "Projects"
 permalink: projects.md
 ---
