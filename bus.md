@@ -19,5 +19,5 @@ This project involves the live fetching of API data from the Massachusetts Bay T
 click the image below to run the Bust Tracker for Route 1.<br><br>
       <a href="https://zkm5022.github.io/bus/">
          <img alt="Eyes" src="bus_snip.JPG"
-         width=200>
+         width=400>
       </a>
