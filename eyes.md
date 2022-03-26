@@ -19,5 +19,5 @@ This project uses cursor detection to move the eyes on the screen to align with 
 Click the image below to run the Eyes Project<br><br>
       <a href="https://zkm5022.github.io/eyes/">
          <img alt="Eyes" src="eyes_snip.JPG"
-         width=200>
+         width=400>
       </a>
