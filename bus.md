@@ -18,6 +18,6 @@
 This project involves the live fetching of API data from the Massachusetts Bay Transity Authority to display the live location of buses on bus route number 1. The locations will updated every 15 seconds. <br><br>
 click the image below to run the Bust Tracker for Route 1.<br><br>
       <a href="https://zkm5022.github.io/bus/">
-         <img alt="Eyes" src="bus_snip.JPG"
+         <img alt="Bus Tracker" src="bus_snip.JPG"
          width=400>
       </a>
